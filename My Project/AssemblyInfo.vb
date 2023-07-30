@@ -8,14 +8,14 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("EntityManagement")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("SpydazWeb")>
-<Assembly: AssemblyProduct("EntityManagement")>
+<Assembly: AssemblyTitle("SpydazWeb AI Basic Entity Management")>
+<Assembly: AssemblyDescription("Extracts, Detects entitys in sentences , as well as Entity Sentence Shapes(Patterns)")>
+<Assembly: AssemblyCompany("SpydazWeb AI Creations")>
+<Assembly: AssemblyProduct("SpydazWeb AI Entity Management")>
 <Assembly: AssemblyCopyright("Copyright © SpydazWeb 2023")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("TM© SpydazWeb 2023")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("845c0c23-dedb-417b-bb9e-1d20ea2134df")>
